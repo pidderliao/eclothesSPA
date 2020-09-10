@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eclothesSPA/static/css/main.e2448e37.chunk.css",
+    "main.js": "/eclothesSPA/static/js/main.7e6566c5.chunk.js",
+    "main.js.map": "/eclothesSPA/static/js/main.7e6566c5.chunk.js.map",
+    "runtime-main.js": "/eclothesSPA/static/js/runtime-main.257c0a3c.js",
+    "runtime-main.js.map": "/eclothesSPA/static/js/runtime-main.257c0a3c.js.map",
+    "static/css/2.63b65d4e.chunk.css": "/eclothesSPA/static/css/2.63b65d4e.chunk.css",
+    "static/js/2.bcd8b52a.chunk.js": "/eclothesSPA/static/js/2.bcd8b52a.chunk.js",
+    "static/js/2.bcd8b52a.chunk.js.map": "/eclothesSPA/static/js/2.bcd8b52a.chunk.js.map",
+    "index.html": "/eclothesSPA/index.html",
+    "precache-manifest.25cd58183ba9fae7c8ef05817eb6f3f7.js": "/eclothesSPA/precache-manifest.25cd58183ba9fae7c8ef05817eb6f3f7.js",
+    "service-worker.js": "/eclothesSPA/service-worker.js",
+    "static/css/2.63b65d4e.chunk.css.map": "/eclothesSPA/static/css/2.63b65d4e.chunk.css.map",
+    "static/css/main.e2448e37.chunk.css.map": "/eclothesSPA/static/css/main.e2448e37.chunk.css.map",
+    "static/js/2.bcd8b52a.chunk.js.LICENSE.txt": "/eclothesSPA/static/js/2.bcd8b52a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.257c0a3c.js",
+    "static/css/2.63b65d4e.chunk.css",
+    "static/js/2.bcd8b52a.chunk.js",
+    "static/css/main.e2448e37.chunk.css",
+    "static/js/main.7e6566c5.chunk.js"
+  ]
+}
